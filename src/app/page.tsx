@@ -21,13 +21,13 @@ export default function Home() {
                 height={500}
                 alt={'test'}
             />
-            {/*<Image
+            <Image
                 src={stock}
                 width={2000}
                 height={3000}
                 sizes='(max-width: 439.98px) 100vw, (max-width: 575.98px) 100vw, (max-width: 767.98px) 100vw, (max-width: 991.98px) 180px, (max-width: 1199.98px) 250px, (max-width: 1399.98px) 355px, 355px'
                 alt={'test2'}
-            />*/}
+            />
         </div>
     </main>
   );
