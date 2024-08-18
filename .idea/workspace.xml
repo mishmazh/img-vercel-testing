@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d42591c-4a80-4708-bade-91d0fb489b0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/img-vercel-testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="5d42591c-4a80-4708-bade-91d0fb489b0d" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +47,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723983569174</updated>
-      <workItem from="1723983570198" duration="488000" />
+      <workItem from="1723983570198" duration="1204000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1723984083367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723984083367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +64,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
