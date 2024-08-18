@@ -1,4 +1,5 @@
 import Image from "next/image";
+import dog from '@/assets/dog.png'
 
 export default function Home() {
   return (
@@ -12,6 +13,14 @@ export default function Home() {
           height={37}
         />
       </div>
+        <div>
+            <Image
+                src={dog}
+                width={500}
+                height={500}
+                alt={'test'}
+            />
+        </div>
     </main>
   );
 }
