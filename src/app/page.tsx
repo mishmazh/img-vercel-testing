@@ -1,5 +1,6 @@
 import Image from "next/image";
 import dog from '@/assets/dog.png'
+import stock from '@/assets/stock.jpg'
 
 export default function Home() {
   return (
@@ -19,6 +20,12 @@ export default function Home() {
                 width={500}
                 height={500}
                 alt={'test'}
+            />
+            <Image
+                src={stock}
+                width={2000}
+                height={3000}
+                alt={'test2'}
             />
         </div>
     </main>
